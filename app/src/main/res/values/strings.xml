@@ -1,0 +1,219 @@
+<resources>
+    <string name="app_name">Solar System Planetinfo</string>
+    <string name="comparetra">Compare</string>
+
+    <string name="earthInfo">Earth, our home planet, is the most amazing throughout the solar system because there is life here. It also cries out of it. We do not know if we are alone about it in the universe, but we do not know any other planet that is similar to the Earth.</string>
+
+    <string name="avstandsoleneartha">Distance from the Sun: \t About 150 million km</string>
+    <string name="avstandsolenearthb">Earth: Distance from the Sun: \t About 150 million km</string>
+
+    <string name="avstandjordeneartha">Distance from the Earth:\t0</string>
+    <string name="avstandjordenearthb">Earth: Distance from the Sun: \t0</string>
+
+    <string name="diametereartha">Diameter of the Equator: \t 12 140 km</string>
+    <string name="diameterearthb">Earth: Diameter of the Equator: \t 12 140 km</string>
+
+    <string name="temperatureartha">Sunlight temperature: \t Approx. 25 ° C (average) Nightly temperature: \t Approx. 15 ° C (average)</string>
+    <string name="temperaturearthb">Earth: Sunlight temperature: \t Approx. 25 ° C (average) Nightly temperature: \t Approx. 15 ° C (average)</string>
+
+    <string name="atmosfareartha">Atmosphere: \t Most nitrogen and oxygen</string>
+    <string name="atmosfarearthb">Earth: Atmosphere: \t Most nitrogen and oxygen</string>
+
+    <string name="dygnlangdeartha">Day length: \t 24 hours</string>
+    <string name="dygnlangdearthb">Earth: Day length: \t 24 hours</string>
+
+    <string name="arslangdeartha">Length of the year: \t 365.24 days</string>
+    <string name="arslangdearthb">Earth: Length of the year: \t 365.24 days</string>
+
+    <string name="manareartha">Number of moons: \t 1</string>
+    <string name="manarearthb">Earth: Number of moons: \t 1</string>
+
+
+    <string name="jupiterInfo">Jupiter is the largest planet in the solar system. It would accommodate approximately 1300 globes inside Jupiters surface. It also weighs more than all the other planets of the solar system together.</string>
+
+    <string name="avstandsolenjupitera">Distance from the Sun: \t About 778 million km </string>
+    <string name="avstandsolenjupiterb">Jupiter: Distance from the Sun: \t About 778 million km </string>
+
+    <string name="avstandjordenjupitera">Distance from Earth: \t About 588 million km</string>
+    <string name="avstandjordenjupiterb">Jupiter: Distance from Earth: \t About 588 million km</string>
+
+    <string name="diameterjupitera">Diameter of the Equator: \t 142 800 km</string>
+    <string name="diameterjupiterb">Jupiter: Diameter of the Equator: \t 142 800 km</string>
+
+    <string name="temperaturjupitera">Temperature in the Cloud Cover: \t Approx. -150 ° C (average) \n\nTemperature night page: \t About -85 ° C (average)</string>
+    <string name="temperaturjupiterb">Jupiter: Temperature in the Cloud Cover: \t Approx. -150 ° C (average) \n\nTemperature night page: \t About -85 ° C (average)</string>
+
+    <string name="atmosfarjupitera">Atmosphere: \t Most hydrogen and helium</string>
+    <string name="atmosfarjupiterb">Jupiter: Atmosphere: \t Most hydrogen and helium</string>
+
+    <string name="dygnlangdjupitera">Day length: \t 9 hours 50 minutes</string>
+    <string name="dygnlangdjupiterb">Jupiter: Day length: \t 9 hours 50 minutes</string>
+
+    <string name="arslangdjupitera">Length of the year: \t 11.9 earthy years</string>
+    <string name="arslangdjupiterb">Jupiter: Length of the year: \t 11.9 earthy years</string>
+
+    <string name="manarjupitera">Number of moons: \t 63 (known, it is believed that there are more)</string>
+    <string name="manarjupiterb">Jupiter: Number of moons: \t 63 (known, it is believed that there are more)</string>
+
+
+    <string name="marsInfo">There is no planet that has tickled human imagination as much as Mars. Long into the 20th century, it was thought that Mars was inhabited. The "Marsians" also appeared in many books and movies, and were almost always evil.</string>
+
+    <string name="avstandsolenmarsa">Distance from the Sun: \t About 228 million km </string>
+    <string name="avstandsolenmarsb">Mars: Distance from the Sun: \t About 228 million km </string>
+
+    <string name="avstandjordenmarsa">Distance from Earth: \t About 56 million km</string>
+    <string name="avstandjordenmarsb">Mars: Distance from Earth: \t About 56 million km</string>
+
+    <string name="diametermarsa">Diameter of the Equator: \t 6 778 km</string>
+    <string name="diametermarsb">Mars: Diameter of the Equator: \t 6 778 km</string>
+
+    <string name="temperaturmarsa">Temperature Sun Side: \t Approx. -33 ° C (average) Night Temperature Temperature: \t About -85 ° C (average) </string>
+    <string name="temperaturmarsb">Mars: Temperature Sun Side: \t Approx. -33 ° C (average) Night Temperature Temperature: \t About -85 ° C (average) </string>
+
+    <string name="atmosfarmarsa">Atmosphere: \t Most Carbon dioxide</string>
+    <string name="atmosfarmarsb">Mars: Atmosphere: \t Most Carbon dioxide</string>
+
+    <string name="dygnlangdmarsa">Day Length: \t 24 hours 39 minutes</string>
+    <string name="dygnlangdmarsb">Mars: Day Length: \t 24 hours 39 minutes</string>
+
+    <string name="arslangdmarsa">Length of the year: \t 687 days</string>
+    <string name="arslangdmarsb">Mars: Length of the year: \t 687 days</string>
+
+    <string name="manarmarsa">Number of moons: \t 2</string>
+    <string name="manarmarsb">Mars: Number of moons: \t 2</string>
+
+
+    <string name="mercuryInfo">Mercury is the planet closest to the sun. It is the smallest of the planets we can see in the night sky (the others are Venus, Mars, Jupiter and Saturn). Because it is so close to the sun, it can be difficult to detect. It is best to look for the planet at dawn or dusk. Then it shines with a yellow-white shine.</string>
+
+    <string name="avstandsolenmercurya">Distance from the Sun: \t About 60 million km</string>
+    <string name="avstandsolenmercuryb">Mercury: Distance from the Sun: \t About 60 million km</string>
+
+    <string name="avstandjordenmercurya">Distance from Earth: \t About 70 million km</string>
+    <string name="avstandjordenmercuryb">Mercury: Distance from Earth: \t About 70 million km</string>
+
+    <string name="diametermercurya">Diameter of the Equator: \t 4 878 km</string>
+    <string name="diametermercuryb">Mercury: Diameter of the Equator: \t 4 878 km</string>
+
+    <string name="temperaturmercurya">Sunrise Temperature: \t 430 ° C \n\nTemperature Night Page: \t -170 ° C</string>
+    <string name="temperaturmercuryb">Mercury: Sunrise Temperature: \t 430 ° C \n\nTemperature Night Page: \t -170 ° C</string>
+
+    <string name="atmosfarmercurya">Atmosphere: \t None</string>
+    <string name="atmosfarmercuryb">Mercury: Atmosphere: \t None</string>
+
+    <string name="dygnlangdmercurya">Day Length: \t 176 Earth Day</string>
+    <string name="dygnlangdmercuryb">Mercury: Day Length: \t 176 Earth Day</string>
+
+    <string name="arslangdmercurya">Length of the year: \t 88 Earth Day</string>
+    <string name="arslangdmercuryb">Mercury: Length of the year: \t 88 Earth Day</string>
+
+    <string name="manarmercurya">Number of moons: \t 0</string>
+    <string name="manarmercuryb">Mercury: Number of moons: \t 0</string>
+
+
+    <string name="neptunusInfo">Neptune is the eighth planet from the sun. It was actually not detected by being observed in a telescope, but by smart calculations.</string>
+
+    <string name="avstandsolenneptunusa">Distance from the Sun: \t About 4 497 million km</string>
+    <string name="avstandsolenneptunusb">Neptunus: Distance from the Sun: \t About 4 497 million km</string>
+
+    <string name="avstandjordenneptunusa">Distance from Earth: \t About 4 306 million km</string>
+    <string name="avstandjordenneptunusb">Neptunus: Distance from Earth: \t About 4 306 million km</string>
+
+    <string name="diameterneptunusa">Diameter of the Equator: \t 49 000 km</string>
+    <string name="diameterneptunusb">Neptunus: Diameter of the Equator: \t 49 000 km</string>
+
+    <string name="temperaturneptunusa">Temperature in the Cloud Cover: \t Cirka - 240 ° C (average) </string>
+    <string name="temperaturneptunusb">Neptunus: Temperature in the Cloud Cover: \t Cirka - 240 ° C (average) </string>
+
+    <string name="atmosfarneptunusa">Atmosphere: \t Most hydrogen and helium</string>
+    <string name="atmosfarneptunusb">Neptunus: Atmosphere: \t Most hydrogen and helium</string>
+
+    <string name="dygnlangdneptunusa">Day length: \t 18 hours</string>
+    <string name="dygnlangdneptunusb">Neptunus: Day length: \t 18 hours</string>
+
+    <string name="arslangdneptunusa">Length of the year: \t 165 earthy years</string>
+    <string name="arslangdneptunusb">Neptunus: Length of the year: \t 165 earthy years</string>
+
+    <string name="manarneptunusa">Number of moons: \t 13 (may be more)</string>
+    <string name="manarneptunusb">Neptunus: Number of moons: \t 13 (may be more)</string>
+
+
+    <string name="saturnusInfo">Saturn is the second largest planet in the solar system, it is 800 times greater than the Earth. It is twice as far from the sun as Jupiter.</string>
+
+    <string name="avstandsolensaturnusa">Distance from the Sun: \t About 1 430 million km</string>
+    <string name="avstandsolensaturnusb">Saturnus: Distance from the Sun: \t About 1 430 million km</string>
+
+    <string name="avstandjordensaturnusa">Distance from Earth: \t Approx. 1 195milion</string>
+    <string name="avstandjordensaturnusb">Saturnus: Distance from Earth: \t Approx. 1 195milion</string>
+
+    <string name="diametersaturnusa">Diameter of the Equator: \t 120,000 km</string>
+    <string name="diametersaturnusb">Saturnus: Diameter of the Equator: \t 120,000 km</string>
+
+    <string name="temperatursaturnusa">Temperature in the Cloud Cover: \t Approx. -190 ° C (average)</string>
+    <string name="temperatursaturnusb">Saturnus: Temperature in the Cloud Cover: \t Approx. -190 ° C (average)</string>
+
+    <string name="atmosfarsaturnusa">Atmosphere: \t Most hydrogen and helium</string>
+    <string name="atmosfarsaturnusb">Saturnus: Atmosphere: \t Most hydrogen and helium</string>
+
+    <string name="dygnlangdsaturnusa">Day length: \t 10 hours 45 minutes</string>
+    <string name="dygnlangdsaturnusb">Saturnus: Day length: \t 10 hours 45 minutes</string>
+
+    <string name="arslangdsaturnusa">Length of the year: \t 29.5 earthy years</string>
+    <string name="arslangdsaturnusb">Saturnus: Length of the year: \t 29.5 earthy years</string>
+
+    <string name="manarsaturnusa">Number of moons : \t 56 (known, it is believed that there are more)</string>
+    <string name="manarsaturnusb">Saturnus: Number of moons : \t 56 (known, it is believed that there are more)</string>
+
+
+    <string name="uranusInfo">Uranus was the first planet discovered by looking at it in a telescope. It was the astronomer William Herschel (1738 to 1822) who first described it in 1781. Former astronomers thought the planet was a star.</string>
+
+    <string name="avstandsolenuranusa">Distance from the Sun: \t About 2 870 million km </string>
+    <string name="avstandsolenuranusb">Uranus: Distance from the Sun: \t About 2 870 million km </string>
+
+    <string name="avstandjordenuranusa">Distance from Earth: \t About 2 582 million km</string>
+    <string name="avstandjordenuranusb">Uranus: Distance from Earth: \t About 2 582 million km</string>
+
+    <string name="diameteruranusa">Diameter of the Equator: 52,000 km</string>
+    <string name="diameteruranusb">Uranus: Diameter of the Equator: 52,000 km</string>
+
+    <string name="temperatururanusa">Temperature in the Cloud Cover: \t Approximate - 220 ° C (average) </string>
+    <string name="temperatururanusb">Uranus: Temperature in the Cloud Cover: \t Approximate - 220 ° C (average) </string>
+
+    <string name="atmosfaruranusa">Atmosphere: \t Most hydrogen and helium</string>
+    <string name="atmosfaruranusb">Uranus: Atmosphere: \t Most hydrogen and helium</string>
+
+    <string name="dygnlangduranusa">Day length: \t 16 hours</string>
+    <string name="dygnlangduranusb">Uranus: Day length: \t 16 hours</string>
+
+    <string name="arslangduranusa">Length of the year: \t 84 earthy years</string>
+    <string name="arslangduranusb">Uranus: Length of the year: \t 84 earthy years</string>
+
+    <string name="manaruranusa">Number of moons: \t 27 (may be more)</string>
+    <string name="manaruranusb">Uranus: Number of moons: \t 27 (may be more)</string>
+
+
+    <string name="venusInfo">Venus is the second planet from the sun and the hottest of all of them. Venus is almost as big as the Earth and is the planet closest to our world.</string>
+
+    <string name="avstandsolenvenusa">Distance from the Sun: \t About 108 million km </string>
+    <string name="avstandsolenvenusb">Venus: Distance from the Sun: \t About 108 million km </string>
+
+    <string name="avstandjordenvenusa">Distance from Earth: \t Approximately 40 million km</string>
+    <string name="avstandjordenvenusb">Venus Distance from Earth: \t Approximately 40 million km</string>
+
+    <string name="diametervenusa">Diameter of the equator: 140 km</string>
+    <string name="diametervenusb">Venus: Diameter of the equator: 140 km</string>
+
+    <string name="temperaturvenusa">Average temperature: \t Approx. 737 ° C</string>
+    <string name="temperaturvenusb">Venus: Average temperature: \t Approx. 737 ° C</string>
+
+    <string name="atmosfarvenusa">Atmosphere: \t Most hydrogen and helium</string>
+    <string name="atmosfarvenusb">Venus: Atmosphere: \t Most hydrogen and helium</string>
+
+    <string name="dygnlangdvenusa">Day length: \t 117 earth day</string>
+    <string name="dygnlangdvenusb">Venus: Day length: \t 117 earth day</string>
+
+    <string name="arslangdvenusa">Length of the year: \t 225 earth day</string>
+    <string name="arslangdvenusb">Venus: Length of the year: \t 225 earth day</string>
+
+    <string name="manarvenusa">Number of moons: \t 0</string>
+    <string name="manarvenusb">Venus: Number of moons: \t 0</string>
+</resources>

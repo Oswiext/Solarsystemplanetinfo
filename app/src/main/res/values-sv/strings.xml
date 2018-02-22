@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="comparetra">Jämför</string>
+
+    <string name="earthInfo">Jorden, vår hemplanet, är den mest fantastiska i hela solsystemet eftersom det finns liv här. Det kryllar dessutom av det. Vi vet inte om vi är ensamma om det i universum, men vi känner inte till någon annan planet som ens avlägset liknar jorden. </string>
+
+    <string name="avstandsoleneartha">Avstånd från Solen:\tCirka 150 miljoner km</string>
+    <string name="avstandsolenearthb">Jorden: Avstånd från Solen:\tCirka 150 miljoner km</string>
+
+    <string name="avstandjordeneartha">Avstånd från Jorden:\t0</string>
+    <string name="avstandjordenearthb">Jorden: Avstånd från Jorden:\t0</string>
+
+    <string name="diametereartha">Ekvatorns diameter:\t12 140 km</string>
+    <string name="diameterearthb">Jorden: Ekvatorns diameter:\t12 140 km</string>
+
+    <string name="temperatureartha">Temperatur solsidan:\tCirka 25 °C (medeltal) \n\nTemperatur nattsidan:\tCirka 15 °C (medeltal)</string>
+    <string name="temperaturearthb">Jorden: Temperatur solsidan:\tCirka 25 °C (medeltal) \n\nTemperatur nattsidan:\tCirka 15 °C (medeltal)</string>
+
+    <string name="atmosfareartha">Atmosfär:\tMest kväve och syre</string>
+    <string name="atmosfarearthb">Jorden: Atmosfär:\tMest kväve och syre</string>
+
+    <string name="dygnlangdeartha">Dygnets längd:\t24 timmar</string>
+    <string name="dygnlangdearthb">Jorden: Dygnets längd:\t24 timmar</string>
+
+    <string name="arslangdeartha">Årets längd:\t365,24 dygn</string>
+    <string name="arslangdearthb">Jorden: Årets längd:\t365,24 dygn</string>
+
+    <string name="manareartha">Antal månar:\t1</string>
+    <string name="manarearthb">Jorden: Antal månar:\t1</string>
+
+
+    <string name="jupiterInfo">Jupiter är solsystemets största planet. Det skulle rymmas ungefär 1300 jordklot innanför Jupiters yta. Den väger också mer än alla de andra planeterna i solsystemet tillsammans.</string>
+
+    <string name="avstandsolenjupitera">Avstånd från Solen:\tCirka 778 miljoner km</string>
+    <string name="avstandsolenjupiterb">Jupiter: Avstånd från Solen:\tCirka 778 miljoner km</string>
+
+    <string name="avstandjordenjupitera">Avstånd från Jorden:\tCirka 588 miljoner km</string>
+    <string name="avstandjordenjupiterb">Jupiter: Avstånd från Jorden:\tCirka 588 miljoner km</string>
+
+    <string name="diameterjupitera">Ekvatorns diameter:\t142 800 km</string>
+    <string name="diameterjupiterb">Jupiter: Ekvatorns diameter:\t142 800 km</string>
+
+    <string name="temperaturjupitera">Temperatur i molntäcket:\tCirka -150 °C (medeltal) \n\nTemperatur nattsidan:\tCirka -85 °C (medeltal)</string>
+    <string name="temperaturjupiterb">Jupiter: Temperatur i molntäcket:\tCirka -150 °C (medeltal) \n\nTemperatur nattsidan:\tCirka -85 °C (medeltal)</string>
+
+    <string name="atmosfarjupitera">Atmosfär:\tMest väte och helium</string>
+    <string name="atmosfarjupiterb">Jupiter: Atmosfär:\tMest väte och helium</string>
+
+    <string name="dygnlangdjupitera">Dygnets längd:\t9 timmar 50 minuter</string>
+    <string name="dygnlangdjupiterb">Jupiter: Dygnets längd:\t9 timmar 50 minuter</string>
+
+    <string name="arslangdjupitera">Årets längd:\t11,9 jordiska år</string>
+    <string name="arslangdjupiterb">Jupiter: Årets längd:\t11,9 jordiska år</string>
+
+    <string name="manarjupitera">Antal månar:\t63 (kända, man tror att det finns fler)</string>
+    <string name="manarjupiterb">Jupiter: Antal månar:\t63 (kända, man tror att det finns fler)</string>
+
+
+    <string name="marsInfo">Det finns nog ingen planet som har kittlat människans fantasi lika mycket som Mars. Långt in på 1900-talet trodde man att Mars var bebodd. "Marsianerna" dök också upp i många böcker och filmer, och var nästan alltid onda.</string>
+
+    <string name="avstandsolenmarsa">Avstånd från Solen:\tCirka 228 miljoner km</string>
+    <string name="avstandsolenmarsb">Mars: Avstånd från Solen:\tCirka 228 miljoner km</string>
+
+    <string name="avstandjordenmarsa">Avstånd från Jorden:\tCirka 56 miljoner km</string>
+    <string name="avstandjordenmarsb">Mars: Avstånd från Jorden:\tCirka 56 miljoner km</string>
+
+    <string name="diametermarsa">Ekvatorns diameter:\t6 778 km</string>
+    <string name="diametermarsb">Mars: Ekvatorns diameter:\t6 778 km</string>
+
+    <string name="temperaturmarsa">Temperatur solsidan:\tCirka -33 °C (medeltal) \n\nTemperatur nattsidan:\tCirka -85 °C (medeltal)</string>
+    <string name="temperaturmarsb">Mars: Temperatur solsidan:\tCirka -33 °C (medeltal) \n\nTemperatur nattsidan:\tCirka -85 °C (medeltal)</string>
+
+    <string name="atmosfarmarsa">Atmosfär:\tMest koldioxid</string>
+    <string name="atmosfarmarsb">Mars: Atmosfär:\tMest koldioxid</string>
+
+    <string name="dygnlangdmarsa">Dygnets längd:\t24 timmar 39 minuter</string>
+    <string name="dygnlangdmarsb">Mars: Dygnets längd:\t24 timmar 39 minuter</string>
+
+    <string name="arslangdmarsa">Årets längd:\t687 dygn</string>
+    <string name="arslangdmarsb">Mars: Årets längd:\t687 dygn</string>
+
+    <string name="manarmarsa">Antal månar:\t2</string>
+    <string name="manarmarsb">Mars: Antal månar:\t2</string>
+
+
+    <string name="mercuryInfo">Merkurius är den planet som ligger närmast solen. Den är den minsta av de planeter som vi kan se på natthimlen (de andra är Venus, Mars, Jupiter och Saturnus). Eftersom den ligger så nära solen kan den vara svår att upptäcka. Det är bäst att leta efter planeten i gryningen eller skymningen. Då lyser den med ett gul-vitt sken.</string>
+
+    <string name="avstandsolenmercurya">Avstånd från Solen:\tCirka 60 miljoner km</string>
+    <string name="avstandsolenmercuryb">Merkurius: Avstånd från Solen:\tCirka 60 miljoner km</string>
+
+    <string name="avstandjordenmercurya">Avstånd från Jorden:\tCirka 70 miljoner km</string>
+    <string name="avstandjordenmercuryb">Merkurius: Avstånd från Jorden:\tCirka 70 miljoner km</string>
+
+    <string name="diametermercurya">Ekvatorns diameter:\t4 878 km</string>
+    <string name="diametermercuryb">Merkurius: Ekvatorns diameter:\t4 878 km</string>
+
+    <string name="temperaturmercurya">Temperatur solsidan:\t430°C \n\nTemperatur nattsidan:\t-170°C</string>
+    <string name="temperaturmercuryb">Merkurius: Temperatur solsidan:\t430°C \n\nTemperatur nattsidan:\t-170°C</string>
+
+    <string name="atmosfarmercurya">Atmosfär:\tIngen</string>
+    <string name="atmosfarmercuryb">Merkurius: Atmosfär:\tIngen</string>
+
+    <string name="dygnlangdmercurya">Dygnets längd:\t176 jord-dygn</string>
+    <string name="dygnlangdmercuryb">Merkurius: Dygnets längd:\t176 jord-dygn</string>
+
+    <string name="arslangdmercurya">Årets längd:\t88 jord-dygn</string>
+    <string name="arslangdmercuryb">Merkurius: Årets längd:\t88 jord-dygn</string>
+
+    <string name="manarmercurya">Antal månar:\t0</string>
+    <string name="manarmercuryb">Merkurius: Antal månar:\t0</string>
+
+
+    <string name="neptunusInfo">Neptunus är den åttonde planeten räknat från solen. Den upptäcktes faktiskt inte genom att observeras i ett teleskop, utan genom smarta uträkningar.</string>
+
+    <string name="avstandsolenneptunusa">Avstånd från Solen:\tCirka 4 497 miljoner km</string>
+    <string name="avstandsolenneptunusb">Neptunus: Avstånd från Solen:\tCirka 4 497 miljoner km</string>
+
+    <string name="avstandjordenneptunusa">Avstånd från Jorden:\tCirka 4 306 miljoner km</string>
+    <string name="avstandjordenneptunusb">Neptunus: Avstånd från Jorden:\tCirka 4 306 miljoner km</string>
+
+    <string name="diameterneptunusa">Ekvatorns diameter:\t49 000 km</string>
+    <string name="diameterneptunusb">Neptunus: Ekvatorns diameter:\t49 000 km</string>
+
+    <string name="temperaturneptunusa">Temperatur i molntäcket:\tCirka -240 °C (medeltal)</string>
+    <string name="temperaturneptunusb">Neptunus: Temperatur i molntäcket:\tCirka -240 °C (medeltal)</string>
+
+    <string name="atmosfarneptunusa">Atmosfär:\tMest väte och helium</string>
+    <string name="atmosfarneptunusb">Neptunus: Atmosfär:\tMest väte och helium</string>
+
+    <string name="dygnlangdneptunusa">Dygnets längd:\t18 timmar</string>
+    <string name="dygnlangdneptunusb">Neptunus: Dygnets längd:\t18 timmar</string>
+
+    <string name="arslangdneptunusa">Årets längd:\t165 jordiska år</string>
+    <string name="arslangdneptunusb">Neptunus: Årets längd:\t165 jordiska år</string>
+
+    <string name="manarneptunusa">Antal månar:\t13 (kan finnas fler)</string>
+    <string name="manarneptunusb">Neptunus: Antal månar:\t13 (kan finnas fler)</string>
+
+
+    <string name="saturnusInfo">Saturnus är den näst största planeten i solsystemet, den är 800 gånger större än jorden. Den ligger dubbelt så långt från solen som Jupiter.</string>
+
+    <string name="avstandsolensaturnusa">Avstånd från Solen:\tCirka 1 430 miljoner km</string>
+    <string name="avstandsolensaturnusb">Saturnus: Avstånd från Solen:\tCirka 1 430 miljoner km</string>
+
+    <string name="avstandjordensaturnusa">Avstånd från Jorden:\tCirka 1 195miljoner km</string>
+    <string name="avstandjordensaturnusb">Saturnus: Avstånd från Jorden:\tCirka 1 195miljoner km</string>
+
+    <string name="diametersaturnusa">Ekvatorns diameter:\t120 000 km</string>
+    <string name="diametersaturnusb">Saturnus: Ekvatorns diameter:\t120 000 km</string>
+
+    <string name="temperatursaturnusa">Temperatur i molntäcket:\tCirka -190 °C (medeltal)</string>
+    <string name="temperatursaturnusb">Saturnus: Temperatur i molntäcket:\tCirka -190 °C (medeltal)</string>
+
+    <string name="atmosfarsaturnusa">Atmosfär:\tMest väte och helium</string>
+    <string name="atmosfarsaturnusb">Saturnus: Atmosfär:\tMest väte och helium</string>
+
+    <string name="dygnlangdsaturnusa">Dygnets längd:\t10 timmar 45 minuter</string>
+    <string name="dygnlangdsaturnusb">Saturnus: Dygnets längd:\t10 timmar 45 minuter</string>
+
+    <string name="arslangdsaturnusa">Årets längd:\t29,5 jordiska år</string>
+    <string name="arslangdsaturnusb">Saturnus: Årets längd:\t29,5 jordiska år</string>
+
+    <string name="manarsaturnusa">Antal månar:\t56 (kända, man tror att det finns fler)</string>
+    <string name="manarsaturnusb">Saturnus: Antal månar:\t56 (kända, man tror att det finns fler)</string>
+
+
+    <string name="uranusInfo">Uranus var den första planeten som upptäcktes genom att man tittade på den i ett teleskop. Det var astronomen William Herschel (1738 till 1822) som först beskrev den 1781. Tidigare astronomer trodde att planeten var en stjärna.</string>
+
+    <string name="avstandsolenuranusa">Avstånd från Solen:\tCirka 2 870 miljoner km</string>
+    <string name="avstandsolenuranusb">Uranus: Avstånd från Solen:\tCirka 2 870 miljoner km</string>
+
+    <string name="avstandjordenuranusa">Avstånd från Jorden:\tCirka 2 582 miljoner km</string>
+    <string name="avstandjordenuranusb">Uranus: Avstånd från Jorden:\tCirka 2 582 miljoner km</string>
+
+    <string name="diameteruranusa">Ekvatorns diameter:\t52 000 km</string>
+    <string name="diameteruranusb">Uranus: Ekvatorns diameter:\t52 000 km</string>
+
+    <string name="temperatururanusa">Temperatur i molntäcket:\tCirka -220 °C (medeltal)</string>
+    <string name="temperatururanusb">Uranus: Temperatur i molntäcket:\tCirka -220 °C (medeltal)</string>
+
+    <string name="atmosfaruranusa">Atmosfär:\tMest väte och helium</string>
+    <string name="atmosfaruranusb">Uranus: Atmosfär:\tMest väte och helium</string>
+
+    <string name="dygnlangduranusa">Dygnets längd:\t16 timmar</string>
+    <string name="dygnlangduranusb">Uranus: Dygnets längd:\t16 timmar</string>
+
+    <string name="arslangduranusa">Årets längd:\t84 jordiska år</string>
+    <string name="arslangduranusb">Uranus: Årets längd:\t84 jordiska år</string>
+
+    <string name="manaruranusa">Antal månar:\t27 (kan finnas fler)</string>
+    <string name="manaruranusb">Uranus: Antal månar:\t27 (kan finnas fler)</string>
+
+
+    <string name="venusInfo">Venus är den andra planeten från solen och den hetaste av dem alla. Venus är nästan lika stor som Jorden och är den planet som ligger närmast vår värld.</string>
+
+    <string name="avstandsolenvenusa">Avstånd från Solen:\tCirka 108 miljoner km</string>
+    <string name="avstandsolenvenusb">Venus: Avstånd från Solen:\tCirka 108 miljoner km</string>
+
+    <string name="avstandjordenvenusa">Avstånd från Jorden:\tCirka 40 miljoner km</string>
+    <string name="avstandjordenvenusb">Venus: Avstånd från Jorden:\tCirka 40 miljoner km</string>
+
+    <string name="diametervenusa">Ekvatorns diameter:\t12 140 km</string>
+    <string name="diametervenusb">Venus: Ekvatorns diameter:\t12 140 km</string>
+
+    <string name="temperaturvenusa">Medeltemperatur:\tCirka 737 °C \n\n</string>
+    <string name="temperaturvenusb">Venus: Medeltemperatur:\tCirka 737 °C \n\n</string>
+
+    <string name="atmosfarvenusa">Atmosfär:\tMest väte och helium</string>
+    <string name="atmosfarvenusb">Venus: Atmosfär:\tMest väte och helium</string>
+
+    <string name="dygnlangdvenusa">Dygnets längd:\t117 jord-dygn</string>
+    <string name="dygnlangdvenusb">Venus: Dygnets längd:\t117 jord-dygn</string>
+
+    <string name="arslangdvenusa">Årets längd:\t225 jord-dygn</string>
+    <string name="arslangdvenusb">Venus: Årets längd:\t225 jord-dygn</string>
+
+    <string name="manarvenusa">Antal månar:\t0</string>
+    <string name="manarvenusb">Venus: Antal månar:\t0</string>
+</resources>
